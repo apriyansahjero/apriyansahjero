@@ -51,15 +51,15 @@
     </div>
     <h3>Database Management</h3>
     <div style="margin: 10px 0 20px 0;">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="45" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="Databases" />
     </div>
     <h3>Tools & Workflow</h3>
     <div style="margin: 10px 0 20px 0;">
-      <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" height="45" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=vscode,postman,git" height="45" alt="Tools" />
     </div>
     <h3>Currently Learning</h3>
     <div style="margin: 10px 0 20px 0;">
-      <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" height="45" alt="Learning" />
+      <img src="https://skillicons.dev/icons?i=python,postgres,mongodb" height="45" alt="Learning" />
     </div>
   </div>
 </div>
