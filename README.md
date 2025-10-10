@@ -42,23 +42,21 @@
     <h3>Backend Development</h3>
     <div style="display: flex; gap: 15px; margin: 10px 0 20px 0;">
       <img src="https://skillicons.dev/icons?i=php,laravel,livewire,nodejs,express" height="45" alt="Backend" />
+      <img src="https://files.svgcdn.io/devicon/livewire.svg" height="45" alt="Livewire" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" alt="Backend" />
     </div>
-
     <h3>Frontend Development</h3>
     <div style="margin: 10px 0 20px 0;">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,alpinejs,tailwind" height="45" alt="Frontend" />
     </div>
-
     <h3>Database Management</h3>
     <div style="margin: 10px 0 20px 0;">
       <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="45" alt="Databases" />
     </div>
-
     <h3>Tools & Workflow</h3>
     <div style="margin: 10px 0 20px 0;">
       <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" height="45" alt="Tools" />
     </div>
-
     <h3>Currently Learning</h3>
     <div style="margin: 10px 0 20px 0;">
       <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" height="45" alt="Learning" />
