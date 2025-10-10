@@ -28,7 +28,7 @@
     <li>⚙️ Experimenting with <strong>Node.js</strong> + <strong>Express</strong> backend</li>
     <li>🧠 Learning <strong>Python</strong> for data analysis (pandas, NumPy, Matplotlib)</li>
     <li>📊 Practicing <strong>data visualization</strong> and dashboarding</li>
-    <li>🌐 Improving my portfolio — <a href="https://jeroapriyansah.com">jeroapriyansah.com</a></li>
+    <li>🌐 Improving my portfolio — <a href="https://jero-apriyansah.vercel.app">jero-apriyansah</a></li>
   </ul>
 </div>
 
