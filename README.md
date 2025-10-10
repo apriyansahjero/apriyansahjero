@@ -48,7 +48,7 @@
     </div>
     <h3>Frontend Development</h3>
     <div style="margin: 10px 0 20px 0;">
-      <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,alpinejs" height="45" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,alpinejs,tailwind,react,vue,next" height="45" alt="Frontend" />
     </div>
     <h3>Database Management</h3>
     <div style="margin: 10px 0 20px 0;">
