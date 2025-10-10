@@ -58,6 +58,10 @@
     <div style="margin: 10px 0 20px 0;">
       <img src="https://skillicons.dev/icons?i=python,postgres,mongodb" height="45" alt="Learning" />
     </div>
+       <h3>Tools</h3>
+    <div style="margin: 10px 0 20px 0;">
+      <img src="https://skillicons.dev/icons?i=vscode,postman,git,mongodb" height="45" alt="Learning" />
+    </div>
   </div>
 </div>
 
