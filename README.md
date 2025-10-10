@@ -43,7 +43,7 @@
   <div style="margin: 20px 0 25px 40px;">
     <h3>Backend Development</h3>
     <div style="display: flex; gap: 15px; margin: 10px 0 20px 0;">
-      <img src="https://skillicons.dev/icons?i=php,laravel" height="45" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" height="45" alt="Backend" />
       <img src="https://files.svgcdn.io/devicon/livewire.svg" height="45" alt="Livewire" />
     </div>
     <h3>Frontend Development</h3>
@@ -56,7 +56,7 @@
     </div>
     <h3>Currently Learning</h3>
     <div style="margin: 10px 0 20px 0;">
-      <img src="https://skillicons.dev/icons?i=python,postgres" height="45" alt="Learning" />
+      <img src="https://skillicons.dev/icons?i=python,postgres,mongodb" height="45" alt="Learning" />
     </div>
   </div>
 </div>
