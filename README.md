@@ -59,7 +59,7 @@
     </div>
     <h3>Currently Learning</h3>
     <div style="margin: 10px 0 20px 0;">
-      <img src="https://skillicons.dev/icons?i=python,postgres,mongodb" height="45" alt="Learning" />
+      <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,go,docker" height="45" alt="Learning" />
     </div>
   </div>
 </div>
