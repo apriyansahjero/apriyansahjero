@@ -2,7 +2,7 @@
   <h1>Full-Stack Web Developer & Aspiring Data Scientist</h1>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF6empiem1sd3p1MzRiNTlycTdldDBlODB3MGNkNDMwNjRhcTRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif" alt="welcome gif" width="280"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN1NHJpZ2MwZjZsOGh2NjU3cXpxaGJoYzdubXB4Y2Y4OGZmMHcydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" alt="welcome gif" width="280"/>
   </div>
 </div>
 
